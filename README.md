@@ -15,7 +15,7 @@ Sou desenvolvedor web, estou estudando bastante Javascript para aprimorar meus c
 
 ## <img height="20" src="https://github.com/buildkite/emojis/raw/master/img-buildkite-64/github.png"> My Github 
 
-[![card](https://github-readme-stats.vercel.app/api?username=lucasandrade&theme=dracula)](https://github.com/LucasAndrade912/)
+[![card](https://github-readme-stats.vercel.app/api?username=LucasAndrade912&theme=dracula)](https://github.com/LucasAndrade912/)
 
 ## Contact
 
