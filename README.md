@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About me
 Me chamo Lucas Andrade, tenho 17 anos e estou cursando Informática no [Instituto Federal da Paraíba](https://ifpb.edu.br/). 
-Estudo desenvolvimento Web Frontend a 1 ano, e atualmente estou estudando React.
+Estudo desenvolvimento Web Frontend a 1 ano, e atualmente estou estudando React e React Native para o meu TCC.
 
 ## 🚀 Languages and Tools
 
@@ -11,6 +11,7 @@ Estudo desenvolvimento Web Frontend a 1 ano, e atualmente estou estudando React.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  </p>
 
 ## <img height="20" src="https://github.com/buildkite/emojis/raw/master/img-buildkite-64/github.png"> My Github 
