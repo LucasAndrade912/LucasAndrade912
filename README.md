@@ -1,7 +1,7 @@
 # Hi Devs 👋
 
 ## 🙋‍♂️ About me
-Me chamo Lucas Andrade, tenho 17 anos e estou cursando Informática no [Instituto Federal da Paraíba](https://ifpb.edu.br/). 
+Me chamo Lucas Andrade, tenho 18 anos e estou cursando Informática no [Instituto Federal da Paraíba](https://ifpb.edu.br/). 
 Estudo desenvolvimento Web Frontend a 1 ano, e atualmente estou estudando React e React Native para o meu TCC.
 
 ## 🚀 Languages and Tools
