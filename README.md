@@ -17,7 +17,7 @@ Estudo desenvolvimento Web Frontend a 1 ano, e atualmente estou estudando React.
 
 [![card](https://github-readme-stats.vercel.app/api?username=LucasAndrade912&theme=dracula)](https://github.com/LucasAndrade912/)
 
-## Contact
+## 📞 Contact
 
 📲 Formas para entrar em contato: ⤵️
 
