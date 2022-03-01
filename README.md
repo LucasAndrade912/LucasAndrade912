@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About me
 Me chamo Lucas Andrade, tenho 18 anos e sou concluinte do curso técnico de Informática do [Instituto Federal da Paraíba](https://ifpb.edu.br/). 
-Estudo desenvolvimento Web Frontend a 1 ano, e atualmente estou estudando React.
+Atualemente estou estudando Typescript para aplica-lo em projetos React futuramente e consequentemente aprimorar meus conhecimentos.
 
 ## 🚀 Languages and Tools
 
