@@ -17,7 +17,7 @@ Atualmente estou me dedicando a estudar Next.js e teste automatizados no fronten
 
 ## <img height="20" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"> My Github 
 
-[![card](https://github-readme-stats.vercel.app/api?username=LucasAndrade912&theme=dracula)](https://github.com/LucasAndrade912/)
+[![card](https://github-readme-stats.vercel.app/api?username=LucasAndrade912&theme=tokyonight)](https://github.com/LucasAndrade912/)
 
 ## 📞 Contact
 
