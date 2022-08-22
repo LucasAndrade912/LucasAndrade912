@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About me
 Me chamo Lucas Andrade, tenho 18 anos e sou concluinte do curso técnico de Informática do [Instituto Federal da Paraíba](https://ifpb.edu.br/). 
-Atualemente estou aprimorando meus conhecimentos em backend utilizando o Nodejs junto com o Typescript.
+Atualemente estou me dedicando a estudar Next.js e teste automatizados no frontend.
 
 ## 🚀 Languages and Tools
 
