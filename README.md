@@ -1,7 +1,7 @@
 # Hi Devs 👋
 
 ## 🙋‍♂️ About me
-Me chamo Lucas Andrade, tenho 18 anos e sou concluinte do curso técnico de Informática do [Instituto Federal da Paraíba](https://ifpb.edu.br/). 
+Me chamo Lucas Andrade, tenho 19 anos e sou concluinte do curso técnico de Informática do [Instituto Federal da Paraíba](https://ifpb.edu.br/). 
 Atualmente estou cursando o superior em Sistemas para Internet no IFPB e me dedicando a estudar Next.js.
 
 ## 🚀 Languages and Tools
