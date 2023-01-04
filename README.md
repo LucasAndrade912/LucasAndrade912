@@ -13,6 +13,7 @@ Atualmente estou cursando o superior em Sistemas para Internet no IFPB e me dedi
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  </p>
 
 ## <img height="20" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"> My Github 
